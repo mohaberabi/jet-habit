@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">JetHabit</string>
+    <string name="go_back">go back</string>
+    <string name="change_password_visibility">change password visibility</string>
+    <string name="slogan">"Your habits will determine your future "</string>
+    <string name="e_mail">E-mail</string>
+    <string name="signup_slogan">Start making your habits</string>
+    <string name="login_Slogan">Let us continue our habits</string>
+    <string name="login_question">Already have an account…?</string>
+    <string name="signup_question">New to jethabit…?</string>
+    <string name="login">Login </string>
+
+
+    <string name="email_placeholder">mohab@yahoo.com</string>
+    <string name="create_account">"Create account "</string>
+    <string name="habit">habit</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="jet">Jet</string>
+    <string name="invalid_email">Invalid Email Address</string>
+    <string name="user_disabled">User Disabled</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="email_already_in_use">Email Already In Used</string>
+    <string name="weak_password">Weak Password</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+    <string name="invalid_custom_token">Invalid Custom Token</string>
+    <string name="account_exist">Account Exists</string>
+    <string name="disk_full">"Disk Full , Empty Some Space "</string>
+    <string name="no_netowrk">No Internet Connection</string>
+    <string name="conflict">"Conflict Data "</string>
+    <string name="serialize_error">Serialization Error\n</string>
+    <string name="unknown_error">"Something wnet Wrong "</string>
+    <string name="payload_too_large">Payload Too Large</string>
+    <string name="request_timeout">"Request Timeout "</string>
+    <string name="too_many_request">Too Many Request</string>
+    <string name="server_error">Server Error</string>
+    <string name="anayltics">Anaytlics</string>
+    <string name="log_out">Logout</string>
+    <string name="fatel_error">Fatel Error</string>
+    <string name="wrong_email">Wrong  email-address</string>
+    <string name="needs_upper">At least 1 upper character</string>
+    <string name="needs_lower">At least 1 lower character </string>
+    <string name="needs_special">At least 1 special character</string>
+    <string name="needs_digit">At least 1 digit is required</string>
+    <string name="very_short">Password must be at least 9 characters</string>
+
+    <string name="required">This field can not be empty</string>
+
+    <string name="unAuthed">UnAthed</string>
+    <string name="settings">settings</string>
+    <string name="sign_out">"Sign out "</string>
+    <string name="sign_out_que">Are you sure you want to sign out...?</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="select_frequency">Select frequency</string>
+    <string name="remind_at">"Remind at "</string>
+    <string name="habit_completed">"Habit Completed…"</string>
+    <string name="delete_habit">Delete habit?</string>
+    <string name="delete_habit_subttl"><![CDATA[You will not be able to undo this step & you will need to re add it again]]></string>
+    <string name="delete">Delete</string>
+    <string name="changed_my_mind">Changed my mind</string>
+
+</resources>
